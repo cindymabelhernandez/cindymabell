@@ -1,0 +1,107 @@
+*{
+    margin:0 ;
+    padding: 0 ;
+    box-sizing: border-box;
+
+
+}
+
+.padre{
+    display: grid;
+    grid-template-columns: repeat(2, 1fr);
+    grid-template-rows: repeat(1,  1fr);
+    gap: 10px;
+    background-color: lightgrey;
+    padding: 20px;
+    border: 2px solid black;
+}
+
+.hijo1{
+    background-color:  lightcoral;
+    padding: 20px;
+    border: 2px solid black;
+}
+
+.hijo2{
+    background-color: lightblue;
+    padding: 20px;
+    border: 2px solid black;
+}
+
+.hijo3{
+    background-color: aqua;
+    padding: 20px;
+    border: 2px solid black;
+}
+
+.hijo4{
+    background-color: blue;
+    padding: 20px;
+    border: 2px solid black;
+}
+
+.hijo5{
+    background-color: blueviolet;
+    padding: 20px;
+    border: 2px solid black;
+}
+
+.hijo6{
+    background-color: bisque;
+    padding: 20px;
+    border: 2px solid black;
+}
+
+.hijo7{
+    background-color: blue;
+    padding: 20px;
+    border: 2px solid black;
+}
+
+.hijo8{
+    background-color: chocolate;
+    padding: 20px;
+    border: 2px solid black;
+}
+
+.hijo9{
+    background-color: burlywood;
+    padding: 20px;
+    border: 2px solid black;
+}
+
+.hijo10{
+    background-color: chartreuse;
+    padding: 20px;
+    border: 2px solid black;
+}
+
+.hijo11{
+    background-color: brown;
+    padding: 20px;
+    border: 2px solid black;
+}
+
+.hijo12{
+    background-color: blanchedalmond;
+    padding: 20px;
+    border: 2px solid black;
+}
+
+.hijo13{
+    background-color: aquamarine;
+    padding: 20px;
+    border: 2px solid black;
+}
+
+.hijo14{
+    background-color: cadetblue;
+    padding: 20px;
+    border: 2px solid black;
+}
+
+.hijo15{
+    background-color: coral;
+    padding: 20px;
+    border: 2px solid black;
+}
